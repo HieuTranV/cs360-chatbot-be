@@ -1,0 +1,7 @@
+[openai]
+key = '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'
+
+[elasticsearch]
+name = 'elastic'
+password = 'Y1DDSr3lJB8mEJkur3FO47oa'
+host = 'http://222.253.96.123:9200/'
